@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "pytest-testing",
+      "title": "Testing Python Programs with pytest",
+      "description": "Write unit tests with pytest to verify Python functions and handle edge cases.",
+      "path": "assignments/pytest_testing",
+      "dueDate": "2026-07-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
